@@ -1,0 +1,6 @@
+# enter age of random user and find when he will turn 100
+
+name = input("What is your name: ")  # take name as input
+age = int(input("How old are you: "))  # integer type input
+year = str((2018 - age) + 100)  # logic
+print(name + " will be 100 years old in the year " + year)

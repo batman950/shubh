@@ -1,0 +1,1 @@
+<li id="footer-poweredbyico">\n\t\t\t\t\t\t<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a>\t\t\t\t\t</li>
